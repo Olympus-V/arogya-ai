@@ -1,4 +1,4 @@
-# aroga_ai
+# arogya_ai
 
 A new Flutter project.
 
